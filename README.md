@@ -8,3 +8,17 @@ In Add Task, you will be able to add the task according to your priority level a
 
 In View Task, you will be able to see your tasks along with their priority level and status.
 
+https://github.com/PoojaPala/TaskManager/blob/main/0.jpeg
+
+https://github.com/PoojaPala/TaskManager/blob/main/1.jpeg
+
+https://github.com/PoojaPala/TaskManager/blob/main/2.jpeg
+
+https://github.com/PoojaPala/TaskManager/blob/main/3.jpeg
+
+https://github.com/PoojaPala/TaskManager/blob/main/4.jpeg
+
+https://github.com/PoojaPala/TaskManager/blob/main/5.jpeg
+
+https://github.com/PoojaPala/TaskManager/blob/main/6.jpeg
+
